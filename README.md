@@ -1,0 +1,2 @@
+# poo-php-curso
+Sistema bancário (principais classes) programado em php, utilizando o paradigma da orientação a objeto. Desenvolvido durante os cursos "Orientação a Objetos com PHP: Classes, métodos e atributos" e "Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces", da plataforma de cursos Alura, como parte das atividades do estágio no Programa de Aceleração de Carreiras - int.Lab (Grupo Integrado, Campo Mourão-PR). 
